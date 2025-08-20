@@ -17,3 +17,8 @@ There should be a filter option, e.g., downloads last week, last month, etc. Thi
 I'm providing you with the button box and an initial prototype as a template. Please take a look at the notebook, research how it can be implemented, and implement it.
 When selecting via the button box, additional details and a link to the HuggingFace page for the dataset should be displayed.
 If anything isn't clear, please ask.
+
+* gemini (2.5 flash and pro) failed
+* gpt-5, qwen3-coder and claude sonnet 4 was successfull
+* price: ~1.50 $ for sonnet, gpt and gemini - ~0.40 $ for qwen3
+

@@ -18,7 +18,7 @@ I'm providing you with the button box and an initial prototype as a template. Pl
 When selecting via the button box, additional details and a link to the HuggingFace page for the dataset should be displayed.
 If anything isn't clear, please ask.
 
-* gemini (2.5 flash and pro) failed
+* gemini (2.5 flash and pro), deepseek and mistral failed
 * gpt-5, qwen3-coder and claude sonnet 4 was successfull
 * price: ~1.50 $ for sonnet, gpt and gemini - ~0.40 $ for qwen3
 
